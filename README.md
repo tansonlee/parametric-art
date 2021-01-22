@@ -4,7 +4,7 @@ These designs are created using a pair of parametric equations.
 
 
 
-<img src="./assets/example.gif" width="600px>
+<img src="./assets/example.gif" width="600px">
 
 The parametric equations used for this example are:
 
